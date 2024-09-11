@@ -1,6 +1,6 @@
-CREATE DATABASE LojaAtividade;
+CREATE DATABASE LojaDs;
 
-USE LojaAtividade;
+USE LojaDs;
 
 CREATE TABLE clientes (
     id_cliente INT AUTO_INCREMENT PRIMARY KEY,
